@@ -15,5 +15,5 @@ function logWhisper (string) {
 }
 
 function sayHiToGrandma (string) {
-  
+  string === string.toLowerCse() ? 'I can\'t hear you!' :
 }
